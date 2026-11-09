@@ -1,31 +1,26 @@
+
 ## Hey there, I'm Raptor :)
 Computer Science student at **The University of Hong Kong**, Class of 2029
 
-### About me 
+### About me
 - Indie game developer, game designer in training
-- Digital Illustrator, concept artist
-- Eager to learn more
+- Digital illustrator and concept artist
+- Always eager to learn more
 
-Big fan of indie horror games, working on one myself. Mouthwashing, Iron Lung and Fears to Fathom are my main inspirations.
+Big fan of indie horror games, and working on one myself.
+
+**Main inspirations:** *Mouthwashing* · *Iron Lung* · *Fears to Fathom*
 
 ### Tools & Languages
-- **Code:** Python · C · C++
+**Code**
 
-- **Art:** Krita, waiting for Clip Studio sale..
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,vscode" />
+
+**Art**
+
+![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
 
 ### Contact me
-- ravxraptor on Discord, WhatsApp and other social medias
-<!--
-**ravxraptor/ravxraptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Discord](https://img.shields.io/badge/Discord-ravxraptor-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Same handle, **ravxraptor**, on WhatsApp and other socials.
