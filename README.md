@@ -1,4 +1,6 @@
 
+<img src="./header.png" width="100%"/>
+
 ## Hey there, I'm Raptor :)
 Computer Science student at **The University of Hong Kong**, Class of 2029
 
@@ -24,3 +26,5 @@ Big fan of indie horror games, and working on one myself.
 ![Discord](https://img.shields.io/badge/Discord-ravxraptor-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 Same handle, **ravxraptor**, on WhatsApp and other socials.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0d0d0d&height=100&section=footer" width="100%"/>
